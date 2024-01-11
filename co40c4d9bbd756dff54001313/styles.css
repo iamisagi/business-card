@@ -1,0 +1,49 @@
+.isagi_img {
+     width:150px;
+}
+
+.card {
+    background-color:#0077b6;
+    border-bottom:#48cae4 5px solid ;
+    display: flex;
+    justify-content:space-around;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px 30px 25px 25px;
+    width: 350px;
+    margin: 50px auto;
+    border-left: #48cae4 5px solid;
+    
+}
+
+.image {
+    
+}
+
+.info {
+    text-align:center;
+    color: #fff;
+    width: 160px;
+    text-shadow: 2px 4px 5px #000000; 
+    
+} 
+
+.hov1:hover {
+    transform: scale(1.1);
+}
+.hov1{
+    transition: all .2s ease-in-out;
+    
+    
+}
+.hov2:hover {
+    transform: scale(1.1);
+}
+.hov2{
+    transition: all .2s ease-in-out;
+}
+.hov3:hover {
+    transform: scale(1.1);
+}
+.hov3:hover{
+    transition: all .2s ease-in-out;
+}
